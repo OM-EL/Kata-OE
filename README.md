@@ -1,7 +1,7 @@
 ﻿# Design pattern 
 
 Strategy.
-Every class contains logic, of how we calculate the score.
+Every strategy is put into a single class , strategies that have the same structure have being put in the same class.
 
 # Problem in the previous code
 
