@@ -3,7 +3,7 @@
 Strategy.
 Every class contains logic, of how we calculate the score.
 
-# Problème dans la code d'avant 
+# Problem in the previous code
 
 -> Consistency: The code style is inconsistent. For instance, some methods use int[] counts, while others use int[] tallies. It is better to stick to a consistent naming convention.
 
